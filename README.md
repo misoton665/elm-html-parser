@@ -1,8 +1,6 @@
 # elm-html-parser
 
-[![Build Status](https://travis-ci.org/jinjor/elm-html-parser.svg)](https://travis-ci.org/jinjor/elm-html-parser)
-
-Parse HTML in Elm! ([DEMO](https://jinjor.github.io/elm-html-parser/))
+This is a fork from [jinjor/elm-html-parser](https://github.com/jinjor/elm-html-parser)
 
 ## Parse
 
